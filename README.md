@@ -1,0 +1,2 @@
+# MGNLib
+ My personal library
