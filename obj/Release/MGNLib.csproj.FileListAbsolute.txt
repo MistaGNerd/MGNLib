@@ -1,0 +1,5 @@
+C:\Users\medra\source\repos\MGNLib\bin\Release\MGNLib.dll
+C:\Users\medra\source\repos\MGNLib\bin\Release\MGNLib.pdb
+C:\Users\medra\source\repos\MGNLib\obj\Release\MGNLib.csprojAssemblyReference.cache
+C:\Users\medra\source\repos\MGNLib\obj\Release\MGNLib.dll
+C:\Users\medra\source\repos\MGNLib\obj\Release\MGNLib.pdb
