@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DiskUtils\Disk.cs" />
     <Compile Include="IO\Archive\Archive.cs" />
     <Compile Include="IO\Archive\ArchiveOptions.cs" />
     <Compile Include="Core\ExtensionClasses\ListExtensions.cs" />
